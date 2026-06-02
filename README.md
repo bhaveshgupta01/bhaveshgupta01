@@ -2,8 +2,8 @@
 
 # Bhavesh Gupta
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=8BE9FD&center=true&vCenter=true&width=520&lines=I+build+agentic+AI+systems.;Most+weekends+I'm+at+a+hackathon.;Talk+to+my+AI+twin+→+libralpanda.vercel.app" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=8BE9FD&center=true&vCenter=true&width=560&lines=I+build+agentic+AI+systems.;Most+weekends+I+am+at+a+hackathon.;Talk+to+my+AI+twin+-%3E+libralpanda.vercel.app" alt="Typing SVG" />
 </a>
 
 **MS CS @ NYU Courant · NYC · Looking for Summer 2026**
@@ -136,13 +136,18 @@ NYU Efficient AI coursework. INT8 quantization is dual-purpose: **4× edge-model
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bhaveshgupta01&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshgupta01&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="48%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaveshgupta01&theme=tokyo-night&hide_border=true&area=true" width="96%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=bhaveshgupta01&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhaveshgupta01&theme=tokyonight" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bhaveshgupta01&theme=tokyonight&utcOffset=-5" width="48%"/>
 
-<!-- Optional: snake animation eating contributions. Requires the snake GH Action set up in this repo (.github/workflows/snake.yml). -->
-<img src="https://raw.githubusercontent.com/bhaveshgupta01/bhaveshgupta01/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhaveshgupta01&theme=tokyonight" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhaveshgupta01&theme=tokyonight" width="48%"/>
+
+<img src="https://streak-stats.demolab.com?user=bhaveshgupta01&theme=tokyonight&hide_border=true" width="60%"/>
+
+<!-- Snake animation: uncomment after setting up .github/workflows/snake.yml in your profile repo (see github/snake-workflow.yml in this folder for the file) -->
+<!-- <img src="https://raw.githubusercontent.com/bhaveshgupta01/bhaveshgupta01/output/github-contribution-grid-snake.svg" alt="Snake animation"/> -->
 
 </div>
 
