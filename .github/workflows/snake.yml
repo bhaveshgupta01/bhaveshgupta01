@@ -1,0 +1,35 @@
+# Save this as .github/workflows/snake.yml in the bhaveshgupta01/bhaveshgupta01 profile repo.
+# It will generate the contribution-grid snake SVG on a schedule and push it to the `output` branch.
+# Once this runs at least once, uncomment the snake <img> in README.md.
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */24 * * *"   # every 24 hours
+  workflow_dispatch:          # also allow manual trigger from Actions tab
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: bhaveshgupta01
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
